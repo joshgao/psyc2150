@@ -35,6 +35,29 @@
         - That's why dictation is so bad for memory: Because notes serve primarily as a memory cue and not a good way of learning, you have to write what you're thinking about at the time.
     - Notes are also a bad way of encapsulating *structure*: Lecture *content* is hierarchical, whereas lectures themselves are presented in a linear fashion.
 - ### How to learn from complex reading
+    Textbooks are often far more difficult to read for comprehension than other types of books like novels or biographies - this is because the latter often tries to paint a narrative, while the former doesn't care about comprehension, textbook authors simply need to get as much info down on the paper as possible. Here are a few tips on how to read better.
+
+    #### Tip 1 - Don't just read and highlight
+    - You may not understand the material as well as you think on the first read. You also might not be a subject matter expert yet. *That probably means that you don't know what's worth highlighting and what's not.*
+        - This is supported by experiment - researchers bought used copies of textbooks and asked non-experts to highlight the important information; no one highlighted the same thing.
+    - However, highlighting is OK if you already know a lot
+    - In conclusion, charging in blind w/ a sharpie is not good enough. You need a plan
+
+    #### Tip 2 - Use a reading strategy that fits your goal
+    - Not enough to think "i'm going to read actively and connect ideas", need to set a concrete task.
+    - Use the acronym **SQ3R**
+        - **S**kim: Skim the article for headings, subheadings, and figures so you know what it's trying to tell you.
+        - **Q**uestion: Pose questions you think the reading is going to answer
+        - **R**ead: Read the text, actively searching for answers to your questions
+        - **R**ecite: Recite what you learned as if explaining it to someone else. Summarize and determine whether or not your questions have been answered.
+        - **R**eview: an ongoing process where you revisit questions and answers.
+
+    - Additionally, place some blank post-it notes in the text, maybe one for each section
+
+    #### Tip 3 - Take notes as you read
+    - Notes help keep you on task and challenge you to be able to convert long-form textbook answers into digestible memory cues.
+    - If the reading includes headings or subheadings, for each subheading, write a summary and make big-picture connections to rest of chapter
+
 
 
 
